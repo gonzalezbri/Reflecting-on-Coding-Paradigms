@@ -68,3 +68,28 @@ print("Sebulba's Pod condition after flame jet:", podracer1.condition)
 
 #Assistance of Object-Oriented Programming:Object-Oriented Programming aids by structuring code, modeling real-world relationships, and promoting modularity for easy maintenance.
 
+#Is one of these coding paradigms "better" than the other? Why or why not?
+#1 The superiority of one paradigm depends on context and problem.
+#2 Functional programming excels in immutability and clear code.
+#3 Object-Oriented Programming shines in modeling more complex systems.
+
+
+#Given the opportunity to work predominantly using either of these coding paradigms, which seems more appealing? Why?
+#1 Preference depends on project and developer.
+#2 Functional programming: Purity, predictability, no side effects.
+#3 Object-Oriented Programming: Real-world modeling, entity relationships.
+
+#Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
+#1 Functional Programming:
+#2 Mathematical computations, data, complex logic.
+#3 Object-Oriented Programming:
+#4 Modeling entities, interactions between objects, modular systems.
+
+#Personally, which of these styles takes more work to understand? What should be done to deepen understanding related to this paradigm?
+# Functional Programming:
+# Challenging due to immutability and functional concepts.
+# Deepen understanding: Practice simpler tasks, gradually complex problems.
+# Object-Oriented Programming:
+# Complex initially with class relationships and inheritance.
+# Deepen understanding: Practice, read examples, build small projects.
+
